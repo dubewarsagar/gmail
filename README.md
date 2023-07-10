@@ -2,7 +2,9 @@
 
 Gmail is a free email service developed by Google. You can access Gmail on the web and using third-party programs that synchronize email content through POP or IMAP protocols. Gmail started as a limited beta release on April 1, 2004 and ended its testing phase on July 7, 2009. 
 
-In this tutorial, we will learn how to get create new account and how to access that gmails using the web browsers. 
+In this tutorial, we will learn how to get create new account and how to access that gmails using the web browsers.
+
+This is a static site for the master version. Sample update. 
 
 ## Signing Up to Gmail
 You can access emails service from Google using any available browser installed on your system. This service offered by Google requires active internet connection and Google do not charge its consumers directly for using this service.    
